@@ -1,9 +1,9 @@
 # Login and Regiser form 
-##فرم ورود و ثبت نام کاربر
+## فرم ورود و ثبت نام کاربر
 
 login and register and forget password template html
 
-####Just run this
+#### Just run this
 
 ```sh
 
