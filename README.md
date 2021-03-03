@@ -7,6 +7,6 @@ login and register and forget password template html
 
 ```sh
 
-https://github.com/Komeyl-dev/Login-and-Regiser.git
+clone https://github.com/Komeyl-dev/Login-and-Regiser.git
 
 ```
